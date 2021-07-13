@@ -1,0 +1,5 @@
+username = "XXXXXX"
+password = "XXX"
+app_id = "XXX"
+app_name = "test123"
+app_secret = "XXX"
